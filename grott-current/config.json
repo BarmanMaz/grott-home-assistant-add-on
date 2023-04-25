@@ -93,5 +93,5 @@
     },
     "data_path": "str"
   },
-  "image": "barmanmaz/addon-{arch}-grott-ha-addon-edge"
+  "image": "egguy/addon-{arch}-grott-ha-addon-edge"
 }
