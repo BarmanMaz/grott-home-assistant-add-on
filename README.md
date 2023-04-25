@@ -1,6 +1,6 @@
 # Grott - Home Assistant with native MQTT integration
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fgrott-home-assistant-add-on)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FBarmanMaz%2Fgrott-home-assistant-add-on)
 
 An addon to allow running the grott software directly on HA.
 
@@ -12,7 +12,7 @@ This addon allow you to have all the entities automatically created.
 
 1. If you don't have an MQTT broker yet; in Home Assistant go to **Settings → Add-ons → Add-on store** and install the **Mosquitto broker** addon.
 1. Go back to the **Add-on store**, click **⋮ → Repositories**, fill in</br>  `https://github.com/egguy/grott-home-assistant-add-on` and click **Add → Close** or click the **Add repository** button below, click **Add → Close** (You might need to enter the **internal IP address** of your Home Assistant instance first).  
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fgrott-home-assistant-add-on)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FBarmanMaz%2Fgrott-home-assistant-add-on)
 3. The repository includes two add-ons:
     - **grott** is the stable release that tracks the released versions of grott HA plugin.
     - **grott Edge** tracks the `dev` branch of grott HA plugin such that you can install the edge version if there are features or fixes in the grott HA dev branch that are not yet released. (**recommended for most users**)
@@ -35,11 +35,4 @@ This addon allow you to have all the entities automatically created.
     - Use the local IP of your home assistant
     - Don't use a DNS, the datalogger can't resolve `homeassistant.local`
 
-## contributors
 
-Thanks for all the contributors:
-
-- [alelio](https://github.com/alelio)
-- [perico85](https://github.com/perico85)
-- [crazymonster999](https://github.com/crazymonster999) - Alpha tester
-- Zigbee2mqtt for the inspiration
