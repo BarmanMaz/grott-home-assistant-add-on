@@ -1,7 +1,7 @@
 {
 	"name": "Grott - HA extension",
 	"version": "2.8.x",
-	"slug": "grott",
+	"slug": "Barman grott",
 	"description": "The Growatt inverter monitor",
 	"url": "https://github.com/johanmeijer/grott/tree/Beta-(2.8.x)",
 	"arch": [
