@@ -3,7 +3,7 @@
   "version": "edge-4254195578",
   "slug": "grott-current",
   "description": "The Growatt inverter monitor - current HA plugin",
-  "url": "https://github.com/egguy/grott-home-assistant-add-on/tree/main/grott-current",
+  "url": "https://github.com/BarmanMaz/grott-home-assistant-add-on/edit/master/grott-current",
   "arch": [
     "armhf",
     "armv7",
